@@ -1,0 +1,11 @@
+{
+  "name": "Ocean Stuff",
+  "main": "project.html",
+  "window": {
+    "title": "oceanstuff",
+    "width": 640,
+    "height": 360,
+    "resizable": true,
+    "icon": "icon.png"
+  }
+}
